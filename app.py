@@ -84,7 +84,7 @@ def salvar_na_nuvem(aba_nome, lista_dados):
         return False
 
 # --- INTERFACE ---
-st.title("⚔️ Batalha dos Grupos (Online)")
+st.title("⚔️ Consulados (Online)")
 
 # Verifica conexão logo de início
 try:
